@@ -1,6 +1,6 @@
-#Creating a Table with multiple features using React-Table
+# Creating a Table with multiple features using React-Table
 #
-#-What it has?:
+# -What it has?:
 #  -Sorting
 #  -Pagination
 #  -Resizable Columns
